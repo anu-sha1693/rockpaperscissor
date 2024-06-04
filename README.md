@@ -2,7 +2,7 @@ Rock Paper Scissors Game
 
 This is a simple Rock Paper Scissors game implemented in Java with a graphical user interface using Swing. You can play against the computer by selecting either Rock, Paper, or Scissors.
 
-Features
+Features:
 
 Play Rock Paper Scissors against the computer.
 
@@ -15,7 +15,7 @@ Display the winner of each round.
 Option to play again after each round.
 
 
-Usage
+Usage:
 
 
 Compile the Rockpaperscissor.java file.
@@ -33,7 +33,7 @@ The scores of both the player and the computer will be updated accordingly.
 Click "Try Again?" to play another round.
 
 
-How to Compile and Run
+How to Compile and Run:
 
 
 Ensure you have Java Development Kit (JDK) installed on your system.
@@ -52,7 +52,7 @@ java Rockpaperscissor
 
 
 
-Dependencies
+Dependencies:
 
 
 This application does not require any external dependencies beyond the Java Standard Library.
